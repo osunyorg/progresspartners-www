@@ -1,15 +1,181 @@
 ---
 title: Menu principal
 items:
-- title: Fichiers
-  slug: fichiers
+- title: Notre accompagnement
+  slug: notre-accompagnement
   target: "/fichiers/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Transformation
+    slug: transformation
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Chantiers
+    slug: chantiers
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Formations
+    slug: formations
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Accompagnement CODIR
+    slug: accompagnement-codir
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Coaching de dirigeant
+    slug: coaching-de-dirigeant
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
   path: "/files"
   file: content/fr/files/_index.html
+- title: Vos métiers
+  slug: vos-metiers
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Production / Fabrication
+    slug: production-fabrication
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Supply Chain / Logistique
+    slug: supply-chain-logistique
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Ressources Humaines
+    slug: ressources-humaines
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Maintenance / Services Techniques
+    slug: maintenance-services-techniques
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Qualité
+    slug: qualite
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
+- title: Nos formations
+  slug: nos-formations
+  target: https://academy.progress-partners.com/
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+- title: Nos expertises
+  slug: nos-expertises
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Notre ADN
+    slug: notre-adn
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Excellence Opérationnelle
+    slug: excellence-operationnelle
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Fondamentaux terrain
+      slug: fondamentaux-terrain
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    - title: Pilotage & déploiement
+      slug: pilotage-deploiement
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    - title: Flux et performance
+      slug: flux-et-performance
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    - title: Organisation et supply chain
+      slug: organisation-et-supply-chain
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    descendants_targets:
+    - ''
+  - title: Excellence Relationnelle & Managériale
+    slug: excellence-relationnelle-manageriale
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Vision et stratégie
+      slug: vision-et-strategie
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    - title: Confiance et coopération
+      slug: confiance-et-cooperation
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    descendants_targets:
+    - ''
+  - title: Excellence Financière Durable
+    slug: excellence-financiere-durable
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
 - title: Actualités
   slug: actualites
   target: "/actualites/"
