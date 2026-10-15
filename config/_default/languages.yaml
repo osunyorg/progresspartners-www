@@ -9,6 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@progress-partners.com
+          value: >-
+            mailto:contact@progress-partners.com
+      social_networks:
+        linkedin:
+          label: >-
+            2640566
+          value: >-
+            https://www.linkedin.com/company/2640566/
 
   taxonomies:
     administrator: administrators
